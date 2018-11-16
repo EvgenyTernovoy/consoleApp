@@ -1,2 +1,3 @@
-# consoleApp
-Create collection (loftschool homework - 1)
+# Help
+
+node index.js --help
